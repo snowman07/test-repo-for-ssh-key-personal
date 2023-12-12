@@ -6,3 +6,7 @@ test from user.email domingo.arrbelrey@gmail.com (personal) - must proceed!
 global config: domingo.arrbelrey@gmail.com
 local config: arrbelreydomingo@gmail.com
 
+
+global and local config: arrbelreydomingo@gmail.com
+
+
